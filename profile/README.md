@@ -32,6 +32,22 @@
 
 ---
 
+## 📱 실제 화면 · Screenshots
+
+<p align="center">
+  <img src="screenshots/01-home.png" width="210" alt="Home">
+  &nbsp;
+  <img src="screenshots/02-store.png" width="210" alt="Store">
+  &nbsp;
+  <img src="screenshots/03-product.png" width="210" alt="Product detail">
+  &nbsp;
+  <img src="screenshots/04-login.png" width="210" alt="Login">
+</p>
+
+<p align="center"><sub>홈 · 스토어(한정판·세일 <b>레드 포인트</b>) · 상품 상세(360°/AR 뷰어) · 로그인(소셜·토스) — 브랜드 CI(네이비·레드) 적용</sub></p>
+
+---
+
 ## 📊 프로젝트 진행 현황 · Project Status
 
 | 영역 · Area | 상태 · Status | 완성도 |
