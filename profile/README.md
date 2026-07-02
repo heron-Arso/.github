@@ -3,6 +3,12 @@
 > **작가와 컬렉터를 잇는 프리미엄 K-아트 커머스** — 웹·안드로이드 멀티플랫폼, 실물 미술품 결제·배송까지.
 > A premium K-art commerce platform connecting artists and collectors — multi-platform (Web + Android), with real payment & shipping.
 
+### 🔗 **[▶ 라이브 사이트 · Live Site — koala-art.co.kr](https://koala-art.co.kr/)**
+
+<p>
+  <a href="https://koala-art.co.kr/"><img alt="Live Site" src="https://img.shields.io/badge/🌐_Live-koala--art.co.kr-181848?style=for-the-badge"></a>
+</p>
+
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-21-007396?logo=openjdk&logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-4.0-6DB33F?logo=springboot&logoColor=white">
